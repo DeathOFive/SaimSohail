@@ -27,13 +27,12 @@ Core Areas of Interest:
 ;Python Development
 ;Open-Source Security Tools
 
-GitHub: DeathOFive
+GitHub: https://github.com/DeathOFive/
 
-YouTube: CyberWorm
+YouTube: https://www.youtube.com/@Cyber_Worm
 
-Twitter: CyberWorm
+Twitter: CyberWorm (Unactive)
 
 
-"Driven by curiosity, continuous learning, and the pursuit of building secure, innovative, and impactful technology solutions."
+“Cybersecurity is a continuous cycle of protection, detection, response, and recovery.” – Chris Painter
 
-Happy Learning!
