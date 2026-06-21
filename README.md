@@ -1,6 +1,7 @@
 
 <img width="1254" height="1254" alt="ChatGPT Image Jun 12, 2026, 06_46_50 PM" src="https://github.com/user-attachments/assets/13e01607-70ce-45ad-8d79-8ce863b3d333" />
 
+
 About Me:
 
 I am a cybersecurity professional, software developer, and security researcher with a strong passion for offensive security, vulnerability research, secure software development, and security automation. My work focuses on identifying security weaknesses, analyzing complex systems, and developing practical solutions that enhance security, efficiency, and resilience.
@@ -15,16 +16,16 @@ I am also the creator of the cybersecurity and technology-focused YouTube channe
 
 Core Areas of Interest:
 
-Cybersecurity & Information Security
-Ethical Hacking & Penetration Testing
-Vulnerability Research
-Bug Bounty Hunting
-Security Automation
-Secure Software Development
-Web & API Security
-Threat Analysis
-Python Development
-Open-Source Security Tools
+;Cybersecurity & Information Security
+;Ethical Hacking & Penetration Testing
+;Vulnerability Research
+;Bug Bounty Hunting
+;Security Automation
+;Secure Software Development
+;Web & API Security
+;Threat Analysis
+;Python Development
+;Open-Source Security Tools
 
 GitHub: DeathOFive
 YouTube: CyberWorm
